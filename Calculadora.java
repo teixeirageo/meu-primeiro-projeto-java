@@ -1,4 +1,5 @@
 // Minha primeira calculadora versionada com Git
+// Alteração feita diretamente no GitHub
 package academy.devdojo.devdojojava.javacore.Bintroducaometodos.dominio;
 
 public class Calculadora {
